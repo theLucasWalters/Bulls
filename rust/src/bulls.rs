@@ -44,7 +44,7 @@ pub fn run() {
 
     // create the 5 players
     let player1:Player = Player::new(
-        "Ron Haprer",
+        "Ron Harper",
         9,
         "Miami University",
         "Guard",
