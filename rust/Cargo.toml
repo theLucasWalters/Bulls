@@ -9,8 +9,8 @@ edition = "2021"
 
 [[bin]]
 name = "bulls"
-path = "main.rs"
+path = "src/main.rs"
 
 [lib]
 name = "bulls"
-path = "bulls.rs"
+path = "src/bulls.rs"
