@@ -1,10 +1,5 @@
-/.vscode
-
 # things in the /rust/ folder
 /rust/target
 
 # things in the /cpp/ folder
 /cpp/*.exe
-
-# WIP folders/programs
-/solidity
