@@ -49,6 +49,7 @@ int main()
 string playerString(Player player) {
     string output;
 
+    // there's probably a better way to do this, but I don't know what it is :/
     output += "Playing ";
     output += player.position;
     output += ", number ";
