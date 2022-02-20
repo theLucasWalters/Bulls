@@ -24,7 +24,7 @@ lineup = [
     Player(
         'Dennis Rodman',
         91,
-        'Southeaster Oklahoma State University',
+        'Southeastern Oklahoma State University',
         'Forward',
         False,
     ),
