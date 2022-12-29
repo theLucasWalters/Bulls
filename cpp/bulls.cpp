@@ -58,7 +58,7 @@ string playerString(Player player) {
     output += player.college += ", ";
 
     if (player.isCaptain) {
-        output += ", your captain, ";
+        output += "your captain, ";
     }
 
     output += player.name += "!";
