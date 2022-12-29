@@ -1,5 +1,7 @@
 # things in the /rust/ folder
 /rust/target
+/rust/src/*.exe
+/rust/src/*.pdb
 
 # things in the /cpp/ folder
 /cpp/*.exe
